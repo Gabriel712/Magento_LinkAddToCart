@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Gabriel712_LinkAddToCart>
+            <version>1</version>
+        </Gabriel712_LinkAddToCart>
+    </modules>
+    <frontend>
+        <routers>
+            <gabriel712_linkaddtocart>
+                <use>standard</use>
+                <args>
+                    <module>Gabriel712_LinkAddToCart</module>
+                    <frontName>compartilha</frontName>
+                </args>
+            </gabriel712_linkaddtocart>
+        </routers>
+    </frontend>
+</config>

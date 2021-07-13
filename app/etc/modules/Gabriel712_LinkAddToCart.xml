@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Gabriel712_LinkAddToCart>
+            <version>1</version>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Gabriel712_LinkAddToCart>
+    </modules>
+</config>
